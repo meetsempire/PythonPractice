@@ -1,0 +1,6 @@
+﻿Customers_id,City,Store_number,Sales(INR),Customer_age,Gender
+101,Mumbai,10,100,23,M
+102,Ahmedabad,11,200,34,M
+103,Surat,12,300,31,M
+104,Pune,13,400,50,F
+105,Banglore,14,500,46,M
