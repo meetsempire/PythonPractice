@@ -1,0 +1,5 @@
+Cust_id,City,Store_number,Sales(INR),Cust_Age,Gender
+101,Mumbai,10,123,38,M
+102,Pune,23,543,40,M
+1011,Delhi,15,210,30,M
+1014,Delhi,17,190,45,M
